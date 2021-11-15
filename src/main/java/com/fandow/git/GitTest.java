@@ -14,7 +14,7 @@ public class GitTest {
 
         System.out.println("host-fix test");
         System.out.println("push test");
-        System.out.println("online update!!!!!")
+        System.out.println("online update!!!!!");
     }
 
 }
