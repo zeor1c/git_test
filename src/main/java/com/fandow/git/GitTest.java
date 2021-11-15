@@ -13,6 +13,7 @@ public class GitTest {
 
 
         System.out.println("host-fix test");
+        System.out.println("push test");
     }
 
 }
